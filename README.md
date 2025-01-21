@@ -1,2 +1,0 @@
-# clone-tabnews
-Estudo Programação
